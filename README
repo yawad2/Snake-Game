@@ -1,6 +1,6 @@
 About:
 
-This is a classic Snake game developed using Java. The objective of the game is to control the Snake and
+This is a classic Snake game developed using Java. The objective of the game is to control the Snake and 
 guide it to eat as many apples as possible without colliding with the walls or its own body. The Snake
 will grow in length as it eats apples, and the game becomes progressively more difficult as the Snake
 gets longer.
