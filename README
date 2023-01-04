@@ -1,0 +1,24 @@
+About:
+
+This is a classic Snake game developed using Java. The objective of the game is to control the Snake and
+guide it to eat as many apples as possible without colliding with the walls or its own body. The Snake
+will grow in length as it eats apples, and the game becomes progressively more difficult as the Snake
+gets longer.
+
+How to Play:
+
+- Use the arrow keys to control the direction of the Snake
+- The game ends if the Snake collides with the walls or its own body
+
+Requirements:
+
+Java 8 or later
+
+To Run:
+
+- Download the Snake Game zip file and extract it to a local directory
+- Open a terminal or command prompt and navigate to the directory where the files were extracted
+- Compile the source code by typing "javac Game.java"
+Run the game by typing "java Game"
+
+Enjoy the game!
